@@ -1,6 +1,6 @@
 # Desafio: Social Tree
 
-![preview](./.github/preview.jpg)
+![preview](./github/preview.jpg)
 
 > Trilha Discover - Projeto feito para cumprir Desafio Social Tree construído no curso Discover da Rocketseat :rocket:.
 
